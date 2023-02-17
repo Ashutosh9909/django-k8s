@@ -1,4 +1,4 @@
-# django-k8s
+# A simple ToDo app built with Django
 
 ### Setup
 
